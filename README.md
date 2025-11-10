@@ -1,7 +1,7 @@
 <h2 align="center">Projeto Intergrador</h2>
 <img width="500" align="left" src="https://github.com/Miaxavier/IMPACTO-CIRCULAR/blob/main/logo.png"/>
 
-# ♻️ IMPACTO CIRCULAR 
+## ♻️ IMPACTO CIRCULAR 
 The Impacto Circular is a startup created be a group of students in Senac college. The propost of is conect people who works with recycle and the companies.
 
 <hr>
